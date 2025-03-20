@@ -1,7 +1,9 @@
 {
-  "вопрос": "Какой стиль убеждения эффективнее?",
-  "ответ": {
-    "эффективность": "высокая",
-    "стратегия": "апелляция к авторитету",
-    "примеры": ["ссылка на авторитет", "научные данные"]
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Product",
+  "description": "A product in the catalog",
+  "type": "object"
 }
+
+
