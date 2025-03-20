@@ -1,9 +1,22 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/product.schema.json",
-  "title": "Product",
-  "description": "A product in the catalog",
-  "type": "object"
+  "кандидат": {
+    "имя": "اRafif Alshawi",
+    "ключевые_навыки": ["Python", "Machine Learning", "NLP"],
+    "опыт_работы": [
+      {
+        "компания": "Компания X",
+        "должность": "Data Scientist",
+        "годы": "2021-2024"
+      }
+    ],
+    "образование": {
+      "университет": "HSE",
+      "степень": "PhD",
+      "год_выпуска": 2025
+    },
+    "соответствие_вакансии": "высокое",
+    "рекомендации": ["Углубить знания в X", "Проработать навык Y"]
+  }
 }
 
 
